@@ -17,7 +17,7 @@
 
 # <p align="center">Winter-Basketball-AR — open source ARKit game! </p>
 
-<p align="center"> <img src="![logo2](https://user-images.githubusercontent.com/33357541/128419193-8cfdbf64-3261-4a37-8cbd-0b4144a401ff.png)" width="200" height="200"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/33357541/128419193-8cfdbf64-3261-4a37-8cbd-0b4144a401ff.png" width="200" height="200"> </p>
 
 
 <p align="center">
