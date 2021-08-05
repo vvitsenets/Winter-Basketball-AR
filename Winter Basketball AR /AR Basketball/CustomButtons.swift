@@ -26,7 +26,7 @@ class CustomButtons: UIButton {
     func customizeButtons() {
         backgroundColor = UIColor.cyan
         layer.cornerRadius = 11.0
-        layer.borderWidth = 1.5
+        layer.borderWidth = 1.0
         layer.borderColor = UIColor.white.cgColor
     }
 
