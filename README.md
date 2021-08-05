@@ -15,7 +15,7 @@
 
 * Time and patience! This is a big piece of code! Very big! I'm go through pretty much everything and are aiming it at beginners (as im hope kids who play the game are inspired to try build it), so there’s a tonne of detail in here. So feel free to do it over a few days, or weeks! Or if you’re an experienced engineer, just skip past anything that bores you!
 
-# <p align="center"> AR Virus — open source ARKit game! </p>
+# <p align="center">Winter-Basketball-AR — open source ARKit game! </p>
 
 <p align="center"> <img src="" width="200" height="200"> </p>
 
