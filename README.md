@@ -26,7 +26,7 @@
 
 <p align="center">
 <img src="" width="250" height="450">
-<img src="" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/33357541/129006429-01d122a5-55aa-48d6-99f8-9d63e0614a67.MP4" width="300" height="600" />
 <img src="" width="250" height="450">
 </p>
 
