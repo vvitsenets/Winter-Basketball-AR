@@ -1,6 +1,6 @@
 <p align="center"><b>Augmented Reality - Winter-Basketball-AR Game</b>
-
-# <p align="center"><img src="https://user-images.githubusercontent.com/33357541/129194103-15ae9990-7e73-4431-a026-718e10c2c763.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/33357541/129221625-4fe432d5-bdc1-4623-9854-ac84050c5774.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/33357541/129194103-15ae9990-7e73-4431-a026-718e10c2c763.gif"></p>
 
 ## To make this game at home yourself you need four things:
 
